@@ -3,4 +3,5 @@
 2.  Documents
 3.  YIP 
 4.  Patent docs
-5.  Images and videos.
+5.  Images.
+6.  Videos.
